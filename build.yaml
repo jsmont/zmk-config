@@ -23,6 +23,8 @@ include:
     shield: chocofi_left nice_view_adapter nice_view
     snippet: studio-rpc-usb-uart
     cmake-args: -DCONFIG_ZMK_STUDIO=y
+    artifact-name: chocofi_left
   - board: nice_nano//zmk
     shield: chocofi_right nice_view_adapter nice_view
+    artifact-name: chocofi_right
 
