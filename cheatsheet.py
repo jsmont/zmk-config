@@ -9,6 +9,7 @@ Hover a key to see:
   - Arrows pointing to any layers that key activates
 """
 
+import os
 import re
 import sys
 import webbrowser
